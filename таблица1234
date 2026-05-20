@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Таблица</title>
+	<meta name="generator" content="LibreOffice 25.2.6.2 (Linux)"/>
+	<meta name="created" content="2026-04-20T13:04:20.848239483"/>
+	<meta name="changed" content="2026-05-18T10:16:49.241431763"/>
+	
+	<style type="text/css">
+		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"PT Astra Sans"; font-size:small }
+		a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  } 
+		a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  } 
+		comment { display:none;  } 
+	</style>
+	
+</head>
+
+<body>
+<hr>
+	<p><center>
+		<h1>Обзор</h1>
+		<A HREF="#table0">Лист1</A><br>
+		<A HREF="#table1">Лист2</A><br>
+		<A HREF="#table2">Лист3</A><br>
+		<A HREF="#table3">Лист4</A><br>
+		<A HREF="#table4">Лист5</A><br>
+		
+	</center></p>
+<hr>
+<A NAME="table0"><h1>Лист 1: <em>Лист1</em></h1></A>
+<table cellspacing="0" border="0">
+	<colgroup span="2" width="85"></colgroup>
+	<tr>
+		<td height="53" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;максимальный показатель&quot;}">максимальный показатель</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;сумма числа 2&quot;}">сумма числа 2</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="0" sdnum="1049;">0</td>
+		<td align="right" valign=top sdval="1" sdnum="1049;">1</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="1" sdnum="1049;">1</td>
+		<td align="right" valign=top sdval="3" sdnum="1049;">3</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="2" sdnum="1049;">2</td>
+		<td align="right" valign=top sdval="7" sdnum="1049;">7</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="3" sdnum="1049;">3</td>
+		<td align="right" valign=top sdval="15" sdnum="1049;">15</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="4" sdnum="1049;">4</td>
+		<td align="right" valign=top sdval="31" sdnum="1049;">31</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="5" sdnum="1049;">5</td>
+		<td align="right" valign=top sdval="63" sdnum="1049;">63</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="6" sdnum="1049;">6</td>
+		<td align="right" valign=top sdval="127" sdnum="1049;">127</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="7" sdnum="1049;">7</td>
+		<td align="right" valign=top sdval="255" sdnum="1049;">255</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="8" sdnum="1049;">8</td>
+		<td align="right" valign=top sdval="511" sdnum="1049;">511</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="9" sdnum="1049;">9</td>
+		<td align="right" valign=top sdval="1023" sdnum="1049;">1023</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="10" sdnum="1049;">10</td>
+		<td align="right" valign=top sdval="2047" sdnum="1049;">2047</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="11" sdnum="1049;">11</td>
+		<td align="right" valign=top sdval="4095" sdnum="1049;">4095</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="12" sdnum="1049;">12</td>
+		<td align="right" valign=top sdval="8191" sdnum="1049;">8191</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="13" sdnum="1049;">13</td>
+		<td align="right" valign=top sdval="16383" sdnum="1049;">16383</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="14" sdnum="1049;">14</td>
+		<td align="right" valign=top sdval="32767" sdnum="1049;">32767</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="15" sdnum="1049;">15</td>
+		<td align="right" valign=top sdval="65535" sdnum="1049;">65535</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="16" sdnum="1049;">16</td>
+		<td align="right" valign=top sdval="131071" sdnum="1049;">131071</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="17" sdnum="1049;">17</td>
+		<td align="right" valign=top sdval="262143" sdnum="1049;">262143</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="18" sdnum="1049;">18</td>
+		<td align="right" valign=top sdval="524287" sdnum="1049;">524287</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="19" sdnum="1049;">19</td>
+		<td align="right" valign=top sdval="1048575" sdnum="1049;">1048575</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="20" sdnum="1049;">20</td>
+		<td align="right" valign=top sdval="2097151" sdnum="1049;">2097151</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="21" sdnum="1049;">21</td>
+		<td align="right" valign=top sdval="4194303" sdnum="1049;">4194303</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="22" sdnum="1049;">22</td>
+		<td align="right" valign=top sdval="8388607" sdnum="1049;">8388607</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="23" sdnum="1049;">23</td>
+		<td align="right" valign=top sdval="16777215" sdnum="1049;">16777215</td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+<hr>
+<A NAME="table1"><h1>Лист 2: <em>Лист2</em></h1></A>
+<table cellspacing="0" border="0">
+	<colgroup span="2" width="85"></colgroup>
+	<tr>
+		<td height="53" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;максимальный показатель&quot;}">максимальный показатель</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;сумма числа 3&quot;}">сумма числа 3</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="0" sdnum="1049;">0</td>
+		<td align="right" valign=top sdval="1" sdnum="1049;">1</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="1" sdnum="1049;">1</td>
+		<td align="right" valign=top sdval="4" sdnum="1049;">4</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="2" sdnum="1049;">2</td>
+		<td align="right" valign=top sdval="13" sdnum="1049;">13</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="3" sdnum="1049;">3</td>
+		<td align="right" valign=top sdval="40" sdnum="1049;">40</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="4" sdnum="1049;">4</td>
+		<td align="right" valign=top sdval="121" sdnum="1049;">121</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="5" sdnum="1049;">5</td>
+		<td align="right" valign=top sdval="364" sdnum="1049;">364</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="6" sdnum="1049;">6</td>
+		<td align="right" valign=top sdval="1093" sdnum="1049;">1093</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="7" sdnum="1049;">7</td>
+		<td align="right" valign=top sdval="3280" sdnum="1049;">3280</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="8" sdnum="1049;">8</td>
+		<td align="right" valign=top sdval="9841" sdnum="1049;">9841</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="9" sdnum="1049;">9</td>
+		<td align="right" valign=top sdval="29524" sdnum="1049;">29524</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="10" sdnum="1049;">10</td>
+		<td align="right" valign=top sdval="88573" sdnum="1049;">88573</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="11" sdnum="1049;">11</td>
+		<td align="right" valign=top sdval="265720" sdnum="1049;">265720</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="12" sdnum="1049;">12</td>
+		<td align="right" valign=top sdval="797161" sdnum="1049;">797161</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="13" sdnum="1049;">13</td>
+		<td align="right" valign=top sdval="2391484" sdnum="1049;">2391484</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="14" sdnum="1049;">14</td>
+		<td align="right" valign=top sdval="7174453" sdnum="1049;">7174453</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="15" sdnum="1049;">15</td>
+		<td align="right" valign=top sdval="21523360" sdnum="1049;">21523360</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="16" sdnum="1049;">16</td>
+		<td align="right" valign=top sdval="64570081" sdnum="1049;">64570081</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="17" sdnum="1049;">17</td>
+		<td align="right" valign=top sdval="193710244" sdnum="1049;">193710244</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="18" sdnum="1049;">18</td>
+		<td align="right" valign=top sdval="581130733" sdnum="1049;">581130733</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="19" sdnum="1049;">19</td>
+		<td align="right" valign=top sdval="1743392200" sdnum="1049;">1743392200</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="20" sdnum="1049;">20</td>
+		<td align="right" valign=top sdval="5230176601" sdnum="1049;">5230176601</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="21" sdnum="1049;">21</td>
+		<td align="right" valign=top sdval="15690529804" sdnum="1049;">15690529804</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="22" sdnum="1049;">22</td>
+		<td align="right" valign=top sdval="47071589413" sdnum="1049;">47071589413</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="23" sdnum="1049;">23</td>
+		<td align="right" valign=top sdval="141214768240" sdnum="1049;">141214768240</td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+<hr>
+<A NAME="table2"><h1>Лист 3: <em>Лист3</em></h1></A>
+<table cellspacing="0" border="0">
+	<colgroup span="3" width="85"></colgroup>
+	<tr>
+		<td height="53" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;максимальный показатель&quot;}">максимальный показатель</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;сумма для 2&quot;}">сумма для 2</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;сумма для 3&quot;}">сумма для 3</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="0" sdnum="1049;">0</td>
+		<td align="right" valign=top sdval="1" sdnum="1049;">1</td>
+		<td align="right" valign=top sdval="1" sdnum="1049;">1</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="1" sdnum="1049;">1</td>
+		<td align="right" valign=top sdval="3" sdnum="1049;">3</td>
+		<td align="right" valign=top sdval="4" sdnum="1049;">4</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="2" sdnum="1049;">2</td>
+		<td align="right" valign=top sdval="7" sdnum="1049;">7</td>
+		<td align="right" valign=top sdval="13" sdnum="1049;">13</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="3" sdnum="1049;">3</td>
+		<td align="right" valign=top sdval="15" sdnum="1049;">15</td>
+		<td align="right" valign=top sdval="40" sdnum="1049;">40</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="4" sdnum="1049;">4</td>
+		<td align="right" valign=top sdval="31" sdnum="1049;">31</td>
+		<td align="right" valign=top sdval="121" sdnum="1049;">121</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="5" sdnum="1049;">5</td>
+		<td align="right" valign=top sdval="63" sdnum="1049;">63</td>
+		<td align="right" valign=top sdval="364" sdnum="1049;">364</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="6" sdnum="1049;">6</td>
+		<td align="right" valign=top sdval="127" sdnum="1049;">127</td>
+		<td align="right" valign=top sdval="1093" sdnum="1049;">1093</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="7" sdnum="1049;">7</td>
+		<td align="right" valign=top sdval="255" sdnum="1049;">255</td>
+		<td align="right" valign=top sdval="3280" sdnum="1049;">3280</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="8" sdnum="1049;">8</td>
+		<td align="right" valign=top sdval="511" sdnum="1049;">511</td>
+		<td align="right" valign=top sdval="9841" sdnum="1049;">9841</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="9" sdnum="1049;">9</td>
+		<td align="right" valign=top sdval="1023" sdnum="1049;">1023</td>
+		<td align="right" valign=top sdval="29524" sdnum="1049;">29524</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="10" sdnum="1049;">10</td>
+		<td align="right" valign=top sdval="2047" sdnum="1049;">2047</td>
+		<td align="right" valign=top sdval="88573" sdnum="1049;">88573</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="11" sdnum="1049;">11</td>
+		<td align="right" valign=top sdval="4095" sdnum="1049;">4095</td>
+		<td align="right" valign=top sdval="265720" sdnum="1049;">265720</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="12" sdnum="1049;">12</td>
+		<td align="right" valign=top sdval="8191" sdnum="1049;">8191</td>
+		<td align="right" valign=top sdval="797161" sdnum="1049;">797161</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="13" sdnum="1049;">13</td>
+		<td align="right" valign=top sdval="16383" sdnum="1049;">16383</td>
+		<td align="right" valign=top sdval="2391484" sdnum="1049;">2391484</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="14" sdnum="1049;">14</td>
+		<td align="right" valign=top sdval="32767" sdnum="1049;">32767</td>
+		<td align="right" valign=top sdval="7174453" sdnum="1049;">7174453</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="15" sdnum="1049;">15</td>
+		<td align="right" valign=top sdval="65535" sdnum="1049;">65535</td>
+		<td align="right" valign=top sdval="21523360" sdnum="1049;">21523360</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="16" sdnum="1049;">16</td>
+		<td align="right" valign=top sdval="131071" sdnum="1049;">131071</td>
+		<td align="right" valign=top sdval="64570081" sdnum="1049;">64570081</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="17" sdnum="1049;">17</td>
+		<td align="right" valign=top sdval="262143" sdnum="1049;">262143</td>
+		<td align="right" valign=top sdval="193710244" sdnum="1049;">193710244</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="18" sdnum="1049;">18</td>
+		<td align="right" valign=top sdval="524287" sdnum="1049;">524287</td>
+		<td align="right" valign=top sdval="581130733" sdnum="1049;">581130733</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="19" sdnum="1049;">19</td>
+		<td align="right" valign=top sdval="1048575" sdnum="1049;">1048575</td>
+		<td align="right" valign=top sdval="1743392200" sdnum="1049;">1743392200</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="20" sdnum="1049;">20</td>
+		<td align="right" valign=top sdval="2097151" sdnum="1049;">2097151</td>
+		<td align="right" valign=top sdval="5230176601" sdnum="1049;">5230176601</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="21" sdnum="1049;">21</td>
+		<td align="right" valign=top sdval="4194303" sdnum="1049;">4194303</td>
+		<td align="right" valign=top sdval="15690529804" sdnum="1049;">15690529804</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="22" sdnum="1049;">22</td>
+		<td align="right" valign=top sdval="8388607" sdnum="1049;">8388607</td>
+		<td align="right" valign=top sdval="47071589413" sdnum="1049;">47071589413</td>
+	</tr>
+	<tr>
+		<td height="20" align="right" valign=top sdval="23" sdnum="1049;">23</td>
+		<td align="right" valign=top sdval="16777215" sdnum="1049;">16777215</td>
+		<td align="right" valign=top sdval="141214768240" sdnum="1049;">141214768240</td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+<hr>
+<A NAME="table3"><h1>Лист 4: <em>Лист4</em></h1></A>
+<table cellspacing="0" border="0">
+	<colgroup span="5" width="85"></colgroup>
+	<tr>
+		<td height="53" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;статистическая функция&quot;}">статистическая функция</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;для А (лист3)&quot;}">для А (лист3)</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot; Для В (лист3)&quot;}"> Для В (лист3)</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Для С (лист3)&quot;}">Для С (лист3)</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="36" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Среднее значение&quot;}">Среднее значение</td>
+		<td align="right" valign=top sdval="11" sdnum="1049;">11</td>
+		<td align="right" valign=top sdval="1398101" sdnum="1049;">1398101</td>
+		<td align="right" valign=top sdval="9" sdnum="1049;">9</td>
+		<td align="right" valign=top sdval="41000000000" sdnum="1049;0;0,00E+00" data-sheets-value="{ &quot;1&quot;: 3, &quot;3&quot;: -2147483648}" data-sheets-numberformat="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;0,00E+00&quot;, &quot;3&quot;: 1}">4,10E+10</td>
+	</tr>
+	<tr>
+		<td height="53" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Максимальное значение&quot;}">Максимальное значение</td>
+		<td align="right" valign=top sdval="23" sdnum="1049;">23</td>
+		<td align="right" valign=top sdval="16777215" sdnum="1049;">16777215</td>
+		<td align="right" valign=top sdval="141214768240" sdnum="1049;">141214768240</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="53" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Минимальное значение&quot;}">Минимальное значение</td>
+		<td align="right" valign=top sdval="0" sdnum="1049;">0</td>
+		<td align="right" valign=top sdval="1" sdnum="1049;">1</td>
+		<td align="right" valign=top sdval="1" sdnum="1049;">1</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Медиана&quot;}">Медиана</td>
+		<td align="right" valign=top sdval="11" sdnum="1049;">11</td>
+		<td align="right" valign=top sdval="524287" sdnum="1049;">524287</td>
+		<td align="right" valign=top sdval="581130733" sdnum="1049;">581130733</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Мода &quot;}">Мода </td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;#Н\/Д&quot;}">#Н/Д</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;#Н&quot;}">#Н</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;#Н\/Д&quot;}">#Н/Д</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Дисперсия&quot;}">Дисперсия</td>
+		<td align="right" valign=top sdval="53" sdnum="1049;">53</td>
+		<td align="right" valign=top sdval="3" sdnum="1049;">3</td>
+		<td align="right" valign=top sdval="1" sdnum="1049;0;0,00E+00" data-sheets-value="{ &quot;1&quot;: 3, &quot;3&quot;: 1}" data-sheets-numberformat="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;0,00E+00&quot;, &quot;3&quot;: 1}">1,00E+00</td>
+		<td align="right" valign=top sdval="1,5E+022" sdnum="1049;0;0,00E+00" data-sheets-value="{ &quot;1&quot;: 3, &quot;3&quot;: -2147483648}" data-sheets-numberformat="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;0,00E+00&quot;, &quot;3&quot;: 1}">1,50E+22</td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+<hr>
+<A NAME="table4"><h1>Лист 5: <em>Лист5</em></h1></A>
+<table cellspacing="0" border="0">
+	<colgroup span="13" width="85"></colgroup>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="right" valign=top sdval="2021" sdnum="1049;">2021</td>
+		<td align="right" valign=top sdval="2022" sdnum="1049;">2022</td>
+		<td align="right" valign=top sdval="2023" sdnum="1049;">2023</td>
+		<td align="right" valign=top sdval="2024" sdnum="1049;">2024</td>
+		<td align="right" valign=top sdval="2025" sdnum="1049;">2025</td>
+		<td align="right" valign=top sdval="2026" sdnum="1049;">2026</td>
+		<td align="right" valign=top sdval="2027" sdnum="1049;">2027</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Колледж 1&quot;}"><b>Колледж 1</b></td>
+		<td align="right" valign=top sdval="1510000" sdnum="1049;">1510000</td>
+		<td align="right" valign=top sdval="2236476" sdnum="1049;">2236476</td>
+		<td align="right" valign=top sdval="1934765" sdnum="1049;">1934765</td>
+		<td align="right" valign=top sdval="4543534" sdnum="1049;">4543534</td>
+		<td align="right" valign=top sdval="2348887" sdnum="1049;">2348887</td>
+		<td align="right" valign=top sdval="1170004" sdnum="1049;">1170004</td>
+		<td align="right" valign=top sdval="2344598" sdnum="1049;">2344598</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Колледж 2&quot;}"><b>Колледж 2</b></td>
+		<td align="right" valign=top sdval="237800" sdnum="1049;">237800</td>
+		<td align="right" valign=top sdval="732647" sdnum="1049;">732647</td>
+		<td align="right" valign=top sdval="567672" sdnum="1049;">567672</td>
+		<td align="right" valign=top sdval="234234" sdnum="1049;">234234</td>
+		<td align="right" valign=top sdval="323217" sdnum="1049;">323217</td>
+		<td align="right" valign=top sdval="634423" sdnum="1049;">634423</td>
+		<td align="right" valign=top sdval="235455" sdnum="1049;">235455</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Колледж 3&quot;}"><b>Колледж 3</b></td>
+		<td align="right" valign=top sdval="3211400" sdnum="1049;">3211400</td>
+		<td align="right" valign=top sdval="4873837" sdnum="1049;">4873837</td>
+		<td align="right" valign=top sdval="3654654" sdnum="1049;">3654654</td>
+		<td align="right" valign=top sdval="3453453" sdnum="1049;">3453453</td>
+		<td align="right" valign=top sdval="5435323" sdnum="1049;">5435323</td>
+		<td align="right" valign=top sdval="4586959" sdnum="1049;">4586959</td>
+		<td align="right" valign=top sdval="8576885" sdnum="1049;">8576885</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Колледж 4&quot;}"><b>Колледж 4</b></td>
+		<td align="right" valign=top sdval="4961201" sdnum="1049;">4961201</td>
+		<td align="right" valign=top sdval="7844962" sdnum="1049;">7844962</td>
+		<td align="right" valign=top sdval="6159094" sdnum="1049;">6159094</td>
+		<td align="right" valign=top sdval="8233225" sdnum="1049;">8233225</td>
+		<td align="right" valign=top sdval="8109432" sdnum="1049;">8109432</td>
+		<td align="right" valign=top sdval="6393392" sdnum="1049;">6393392</td>
+		<td align="right" valign=top sdval="11158945" sdnum="1049;">11158945</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td colspan=6 rowspan=16 height="273" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br><img src="%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B01234__c69590ae.png" width=436 height=245 hspace=41 vspace=21>
+		</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td colspan=4 rowspan=10 align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br><img src="%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B01234__21ae4607.png" width=274 height=154 hspace=35 vspace=13>
+		</td>
+		</tr>
+	<tr>
+		</tr>
+	<tr>
+		</tr>
+	<tr>
+		</tr>
+	<tr>
+		</tr>
+	<tr>
+		</tr>
+	<tr>
+		</tr>
+	<tr>
+		</tr>
+	<tr>
+		</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td colspan=6 rowspan=15 height="256" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br><img src="%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B01234__21d31a26.png" width=431 height=242 hspace=43 vspace=14>
+		</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td colspan=5 rowspan=15 height="256" align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br><img src="%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B01234__6d8d978a.png" width=402 height=244 hspace=14 vspace=13>
+		</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td colspan=4 rowspan=10 align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br><img src="%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B01234__4d236448.png" width=282 height=159 hspace=31 vspace=10>
+		</td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+	<tr>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+		<td align="left" valign=top data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;&quot;}"><br></td>
+	</tr>
+</table>
+<img src="%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B01234__860b065e.png" width=279 height=157 hspace=32 vspace=11>
+<img src="%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B01234__e4cc9d18.png" width=299 height=170 hspace=23 vspace=14>
+<!-- ************************************************************************** -->
+</body>
+
+</html>
